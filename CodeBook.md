@@ -4,7 +4,9 @@ Getting and Cleaning Data Project
 # The code book
 
 The code book contain below information.
+
 1. Information about the variables in the data set 
+
 2. Information about the experimental study design
 
 ## Study Design
@@ -173,3 +175,5 @@ SITTING, STANDING, LAYING
 65. fBodyBodyGyroJerkMag-mean
 
 66. fBodyBodyGyroJerkMag-std
+
+
