@@ -24,7 +24,7 @@ This is a repository contains the information/instructions about Course Project 
 
 5) Open RStudio and set the working directory to above folder e.g. setwd("C:/GettingCleaningData") and then load and run run_analysis.R file with source("run_analysis.R") command.
 
-6) Open tidy_data_average.txt to read the data. 
+6) Open tidy_data_average.txt to read the tidy data. 
 
 ## Dependencies
 
