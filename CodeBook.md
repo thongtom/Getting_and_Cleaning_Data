@@ -43,7 +43,8 @@ subject: 1 to 30 each representing 30 volunteers within an age bracket of 19-48 
 activity: the activity that the subject was doing at the time of the measurement: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
 SITTING, STANDING, LAYING
 
-66 mean and standard deviation variables as listed below.
+mean and standard deviation variables as listed below.
+
 1. tBodyAcc-mean-X
 
 2. tBodyAcc-mean-Y
