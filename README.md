@@ -28,5 +28,5 @@ This is a repository contains the information/instructions about Course Project 
 
 ## Dependencies
 
-'data.table' package must be installed using install.packages("data.table")
+'data.table' package must be installed in R using install.packages("data.table")
 
