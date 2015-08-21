@@ -7,9 +7,9 @@ The code book contain below information.
 
 1. Information about the variables in the data set 
 
-2. Information about the experimental study design
+2. Information about the transformation work to clean up the data
 
-## Study Design
+## Transformation work to clean up the data
 
 Source of the original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -31,7 +31,7 @@ The source data was collected from the above URL to complete this assignment. Th
 
 7) Combined the data frames to produce one data frame containing the subjects, activities and measurements. 
 
-8) Created an independent tidy data set with the average of each variable for each activity and each subject. This was achieved by using the data.table library to easily group the tidy data by subject and activity. It can be done using lapply() or melt()/cast() function with mean() function. Sort the tidy data based on subject and activity.
+8) Created an independent tidy data set with the average of each variable for each activity and each subject. This was achieved by using the data.table library to easily group the tidy data by subject and activity. It can be done using lapply() or melt()/cast() function with mean function. Sort the tidy data based on subject and activity.
 
 9) Generated "tidy_data_average.txt" from the tidy data as the expected output.
 
